@@ -6,8 +6,10 @@ Mi portafolio personal de Game Development.
 
  - [C# Visual Studio](#juegos-en-c-visual-studio)
  - [Unity](#unity)
+ - [Otros proyectos](#otros-proyectos)
  - [Tecnologías](#tecnologías)
  - [Contacto](#-contacto)
+
 
 ---
 
@@ -104,6 +106,20 @@ Tecnologías: Unity, C#.
 
 
 🔗 [Jugar en Itch.io ](https://noravictoria.itch.io/gamename)| [Video Demo](https://www.youtube.com/watch?v=G3AQ_iybPME)
+
+---
+
+## Otros proyectos
+
+### 🍿 PopcornVision
+Aplicación web sencilla que utiliza realidad aumentada para mostrar alimentos normalmente encontrados en cines tales como palomitas, sodas y nachos.
+
+Características Principales:
+
+ - Muestra los objetos como filtro sobre la cámara.
+ - Menú para seleccionar diferentes artículos y tamaños.
+
+🔗 [Código Fuente](https://github.com/DeysiRR/PopcornVision) | [Probar](https://deysirr.github.io/PopcornVision/)
 
 ---
 
