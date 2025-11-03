@@ -18,6 +18,7 @@ Mi portafolio personal de Game Development.
 ### 🚢 Battleship
 Un clásico juego de estrategia naval donde los jugadores colocan estratégicamente barcos en una cuadrícula y se turnan para intentar hundir la flota del oponente. Incluye jugabilidad por turnos, detección de impactos y lógica de condiciones de victoria.
 
+![Demo](Files/Battleship.mp4)
 
 Características Principales:
 
@@ -30,6 +31,7 @@ Características Principales:
 ### 🔴 Conecta 4
 El juego atemporal de conexión para dos jugadores donde los jugadores dejan caer fichas de colores en una cuadrícula vertical, intentando conectar cuatro en línea horizontal, vertical o diagonalmente.
 
+![Demo](Files/Connect4.gif)
 
 Características Principales:
 
@@ -44,6 +46,7 @@ Características Principales:
 ### 🔢 Number Shuffle
 Un juego de rompecabezas deslizante donde el jugador ordena fichas numeradas deslizándolas hacia un espacio vacío, poniendo a prueba el razonamiento espacial y las habilidades de resolución de problemas.
 
+![Demo](Files/NumberShuffle.mp4)
 
 Características Principales:
 
@@ -57,6 +60,7 @@ Características Principales:
 ### 🐍 Snake
 El clásico juego arcade donde los jugadores controlan una serpiente en crecimiento, comiendo comida mientras evitan colisiones con las paredes y el propio cuerpo de la serpiente.
 
+![Demo](Files/Snake.gif)
 
 Características Principales:
 
@@ -70,6 +74,7 @@ Características Principales:
 ### 🃏 Solitario
 Una implementación del juego de cartas para un solo jugador con la variación clásica Klondike, donde los jugadores organizan cartas en pilas de fundación por palo y rango.
 
+![Demo](Files/Solitaire.gif)
 
 Características Principales:
 
@@ -96,6 +101,7 @@ Características Principales:
 ### 📸 World of Pictures
 Un juego en primera persona donde el objetivo es capturar fotos de diversos animales en su hábitat natural a través de diferentes interacciones con el ambiente o artículos secundarios.
 
+[![Video demo](https://img.youtube.com/vi/G3AQ_iybPME/maxresdefault.jpg)](https://www.youtube.com/watch?v=G3AQ_iybPME)
 
 Características Principales:
 
@@ -107,7 +113,7 @@ Tecnologías: Unity, C#.
 
 
 
-🔗 [Jugar en Itch.io ](https://noravictoria.itch.io/gamename)| [Video Demo](https://www.youtube.com/watch?v=G3AQ_iybPME)
+🔗 [Jugar en Itch.io ](https://noravictoria.itch.io/gamename)| 
 
 ---
 
