@@ -40,16 +40,6 @@ Características Principales:
 
 🔗 [Código Fuente](https://github.com/FranciscoJHOrnelas/NoraProjects/blob/main/ConectaCuatroP.zip) | [Descargar Ejecutable](https://github.com/FranciscoJHOrnelas/NoraProjects/blob/main/Conecta%20Cuatro.exe)
 
-### 💣 Buscaminas
-Un juego de rompecabezas donde los jugadores revelan casillas en una cuadrícula mientras evitan minas ocultas, usando pistas numéricas para deducir las casillas seguras.
-
-
-Características Principales:
-
- - Sistema de marcado para minas sospechosas
- - Diferentes posibles tamaños de tablero
-
-🔗 [Código Fuente](https://github.com/FranciscoJHOrnelas/NoraProjects/blob/main/BuscaminasP.zip) | [Descargar Ejecutable](https://github.com/FranciscoJHOrnelas/NoraProjects/blob/main/Buscaminas.exe)
 
 ### 🔢 Number Shuffle
 Un juego de rompecabezas deslizante donde el jugador ordena fichas numeradas deslizándolas hacia un espacio vacío, poniendo a prueba el razonamiento espacial y las habilidades de resolución de problemas.
@@ -87,6 +77,18 @@ Características Principales:
  - Validación de reglas para movimientos legales
 
 🔗 [Código Fuente](https://github.com/FranciscoJHOrnelas/NoraProjects/blob/main/SolitaireP.zip) | [Descargar Ejecutable](https://github.com/FranciscoJHOrnelas/NoraProjects/blob/main/Solitaire.exe)
+
+
+### 💣 Buscaminas
+Un juego de rompecabezas donde los jugadores revelan casillas en una cuadrícula mientras evitan minas ocultas, usando pistas numéricas para deducir las casillas seguras.
+
+
+Características Principales:
+
+ - Sistema de marcado para minas sospechosas
+ - Diferentes posibles tamaños de tablero
+
+🔗 [Código Fuente](https://github.com/FranciscoJHOrnelas/NoraProjects/blob/main/BuscaminasP.zip) | [Descargar Ejecutable](https://github.com/FranciscoJHOrnelas/NoraProjects/blob/main/Buscaminas.exe)
 
 ---
 
